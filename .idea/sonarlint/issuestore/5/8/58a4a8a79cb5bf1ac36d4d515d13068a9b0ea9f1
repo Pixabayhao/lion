@@ -1,0 +1,163 @@
+
+ysquid:S00115^"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥Ş‚8è¦‘İÏ-
+wsquid:S1192œ"SDefine a constant instead of duplicating this literal "write-global-limit" 3 times.(¶÷•µûÿÿÿÿ8è¦‘İÏ-
+Asquid:S1214È""Move constants to a class or enum.(ìö¢ù8è¦‘İÏ-
+Asquid:S1214Â""Move constants to a class or enum.(¸ÿöŸ8è¦‘İÏ-
+~squid:S00115O"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Êò¯Óùÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍÊ¦8è¦‘İÏ-
+~squid:S00115J"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—á±ëúÿÿÿÿ8è¦‘İÏ-
+squid:S00115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬¯œáÿÿÿÿÿ8è¦‘İÏ-
+squid:S00115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±Òê©ûÿÿÿÿ8è¦‘İÏ-
+~squid:S00115]"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ø€˜ùÿÿÿÿ8è¦‘İÏ-
+squid:S00115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦‚ˆ„üÿÿÿÿ8è¦‘İÏ-
+Asquid:S1214å""Move constants to a class or enum.(Áî‘8è¦‘İÏ-
+usquid:S00114v"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“·ø¬üÿÿÿÿ8è¦‘İÏ-
+qsquid:S00114¬"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­ËÇ´8è¦‘İÏ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûê€8è¦‘İÏ-
+ysquid:S00115W"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™ïã’8è¦‘İÏ-
+@squid:S1214·""Move constants to a class or enum.(Üæé+8è¦‘İÏ-
+ssquid:S1192‚"ODefine a constant instead of duplicating this literal "gateway-server" 3 times.(¦‚ˆ„üÿÿÿÿ8è¦‘İÏ-
+qsquid:S00114È"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìö¢ù8è¦‘İÏ-
+zsquid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥ôƒ¡8è¦‘İÏ-
+Asquid:S1214š""Move constants to a class or enum.(ÀíÁ¦8è¦‘İÏ-
+ysquid:S00115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»í‚ã8è¦‘İÏ-
+usquid:S00114/"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÁ•Êúÿÿÿÿ8è¦‘İÏ-
+Vsquid:S2386x"3Move "mappings" to a class and lower its visibility(¬×ãúÿÿÿÿ8è¦‘İÏ-
+vsquid:S00114³"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãƒ¼Çıÿÿÿÿ8è¦‘İÏ-
+ysquid:S001152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïÇŠ¬8è¦‘İÏ-
+~squid:S00115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Å†ÜÖşÿÿÿÿ8è¦‘İÏ-
+squid:S00115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÌŠ‚¢üÿÿÿÿ8è¦‘İÏ-
+vsquid:S00114¢"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†ß„Çøÿÿÿÿ8è¦‘İÏ-
+squid:S00115½"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â¼¼ÿÿÿÿÿ8è¦‘İÏ-
+Asquid:S1214Ü""Move constants to a class or enum.(£­šä8è¦‘İÏ-
+ysquid:S00115Å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â¤»8è¦‘İÏ-
+Asquid:S1214""Move constants to a class or enum.(´½ÊË8è¦‘İÏ-
+ysquid:S00115ß"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â¤»8è¦‘İÏ-
+vsquid:S00114»"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢¬•‚üÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115¨"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™˜Ÿü8è¦‘İÏ-
+Fsquid:S1214•""Move constants to a class or enum.(‘Å§Êşÿÿÿÿ8è¦‘İÏ-
+Fsquid:S1214Ä""Move constants to a class or enum.(”ç¿Êıÿÿÿÿ8è¦‘İÏ-
+@squid:S1214G""Move constants to a class or enum.(ÏÊñ¬8è¦‘İÏ-
+ysquid:S00115>"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á‹§’8è¦‘İÏ-
+~squid:S00115K"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛèáÁûÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115›"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óßÌ²8è¦‘İÏ-
+ssquid:S1192"TDefine a constant instead of duplicating this literal "write-channel-limit" 3 times.(™˜Ÿü8è¦‘İÏ-
+squid:S00115Š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬¯œáÿÿÿÿÿ8è¦‘İÏ-
+Fsquid:S1214Ë""Move constants to a class or enum.(Üüòºøÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥ôƒ¡8è¦‘İÏ-
+zsquid:S00115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥ôƒ¡8è¦‘İÏ-
+squid:S00115¼"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰‡Ïšüÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿø¬8è¦‘İÏ-
+Fsquid:S1214¸""Move constants to a class or enum.(ëµ÷£ÿÿÿÿÿ8è¦‘İÏ-
+squid:S00115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïÁéßıÿÿÿÿ8è¦‘İÏ-
+Zsquid:S2386¤"6Move "dns_mapping" to a class and lower its visibility(ÆØıùÿÿÿÿ8è¦‘İÏ-
+~squid:S001158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ù’°ùÿÿÿÿ8è¦‘İÏ-
+squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥÷âÔûÿÿÿÿ8è¦‘İÏ-
+ysquid:S00115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â¤»8è¦‘İÏ-
+usquid:S00114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²‡ş²øÿÿÿÿ8è¦‘İÏ-
+ysquid:S00115×"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â¤»8è¦‘İÏ-
+nsquid:S1192›"ODefine a constant instead of duplicating this literal "check-interval" 3 times.(óßÌ²8è¦‘İÏ-
+zsquid:S00115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔŸ‚ä8è¦‘İÏ-
+Fsquid:S1214Ô""Move constants to a class or enum.(û˜‚¢øÿÿÿÿ8è¦‘İÏ-
+ysquid:S00115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÌÉôõ8è¦‘İÏ-
+vsquid:S00114¸"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëµ÷£ÿÿÿÿÿ8è¦‘İÏ-
+vsquid:S00114Ä"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ç¿Êıÿÿÿÿ8è¦‘İÏ-
+ysquid:S00115N"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(öÂñâ8è¦‘İÏ-
+squid:S00115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óî§¸şÿÿÿÿ8è¦‘İÏ-
+squid:S00115í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒ˜Àÿüÿÿÿÿ8è¦‘İÏ-
+~squid:S001156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß“ï‹ûÿÿÿÿ8è¦‘İÏ-
+squid:S00115°"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶÷•µûÿÿÿÿ8è¦‘İÏ-
+Fsquid:S1214¢""Move constants to a class or enum.(†ß„Çøÿÿÿÿ8è¦‘İÏ-
+squid:S00115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íÚñºÿÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115†"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÈİŞŠ8è¦‘İÏ-
+zsquid:S00115Æ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªÄá²8è¦‘İÏ-
+squid:S00115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿ıÿÄıÿÿÿÿ8è¦‘İÏ-
+Esquid:S1214/""Move constants to a class or enum.(óÁ•Êúÿÿÿÿ8è¦‘İÏ-
+Esquid:S1214""Move constants to a class or enum.(ÔïÎæúÿÿÿÿ8øçõØÏ-
+ysquid:S00115Y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çí°Í8è¦‘İÏ-
+zsquid:S00115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢©ë8è¦‘İÏ-
+squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ‡˜ãıÿÿÿÿ8è¦‘İÏ-
+squid:S00115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦‚ˆ„üÿÿÿÿ8è¦‘İÏ-
+~squid:S00115V"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡²¦Áûÿÿÿÿ8è¦‘İÏ-
+~squid:S00115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿¸Ëºşÿÿÿÿ8è¦‘İÏ-
+qsquid:S00114˜"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²¼òë8è¦‘İÏ-
+Asquid:S1214˜""Move constants to a class or enum.(²¼òë8è¦‘İÏ-
+zsquid:S00115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×ıÿ8è¦‘İÏ-
+zsquid:S00115Ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ê¤’8è¦‘İÏ-
+zsquid:S00115ı"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŒºÈÿ8è¦‘İÏ-
+squid:S00115Ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ëİ—Èøÿÿÿÿ8è¦‘İÏ-
+psquid:S00114·"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Üæé+8è¦‘İÏ-
+zsquid:S00115§"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×ıÿ8è¦‘İÏ-
+squid:S00115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÅÊµıÿÿÿÿ8è¦‘İÏ-
+squid:S00115Î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µˆû²ıÿÿÿÿ8è¦‘İÏ-
+qsquid:S00114Â"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸ÿöŸ8è¦‘İÏ-
+vsquid:S00114Ë"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Üüòºøÿÿÿÿ8è¦‘İÏ-
+qsquid:S00114Ü"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£­šä8è¦‘İÏ-
+qsquid:S00114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´½ÊË8è¦‘İÏ-
+psquid:S00114G"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÊñ¬8è¦‘İÏ-
+zsquid:S00115à"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö ¸õ8è¦‘İÏ-
+Esquid:S1214""Move constants to a class or enum.(²‡ş²øÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(şÍ¥€8è¦‘İÏ-
+squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ş‹Í®ıÿÿÿÿ8è¦‘İÏ-
+squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«ºëıÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È¸Ä¶8è¦‘İÏ-
+~squid:S00115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â÷Óİøÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115¥"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óßÌ²8è¦‘İÏ-
+vsquid:S00114õ"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÕß¡øÿÿÿÿ8è¦‘İÏ-
+squid:S00115ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼‹×¿şÿÿÿÿ8è¦‘İÏ-
+vsquid:S00114•"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘Å§Êşÿÿÿÿ8è¦‘İÏ-
+squid:S00115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€’œÿÿÿÿÿ8è¦‘İÏ-
+squid:S00115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±Ê‹ÿÿÿÿÿ8è¦‘İÏ-
+squid:S00115’"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Âææşÿÿÿÿ8è¦‘İÏ-
+Fsquid:S1214³""Move constants to a class or enum.(ãƒ¼Çıÿÿÿÿ8è¦‘İÏ-
+qsquid:S00114å"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áî‘8è¦‘İÏ-
+squid:S00115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶÷•µûÿÿÿÿ8è¦‘İÏ-
+Esquid:S1214)""Move constants to a class or enum.(Ç¶·»şÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115Ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âÈ›Ê8è¦‘İÏ-
+zsquid:S00115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°˜£ú8è¦‘İÏ-
+vsquid:S00114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùŠ¿õøÿÿÿÿ8è¦‘İÏ-
+ysquid:S00115<"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³—¹Û8è¦‘İÏ-
+zsquid:S00115¯"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óßÌ²8è¦‘İÏ-
+zsquid:S00115¿"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªÄá²8è¦‘İÏ-
+zsquid:S00115Î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã±Ã„8è¦‘İÏ-
+lsquid:S1192š"HDefine a constant instead of duplicating this literal "enabled" 3 times.(ïí’¼üÿÿÿÿ8è¦‘İÏ-
+Esquid:S1214v""Move constants to a class or enum.(“·ø¬üÿÿÿÿ8è¦‘İÏ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¿ä’ıÿÿÿÿ8è¦‘İÏ-
+qsquid:S00114š"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÀíÁ¦8è¦‘İÏ-
+~squid:S00115_"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆÏÀ£ÿÿÿÿÿ8è¦‘İÏ-
+ysquid:S001154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßÉ÷·8è¦‘İÏ-
+Fsquid:S1214»""Move constants to a class or enum.(¢¬•‚üÿÿÿÿ8è¦‘İÏ-
+vsquid:S00114†"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œå½øÿÿÿÿ8è¦‘İÏ-
+~squid:S00115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨èÖ×øÿÿÿÿ8è¦‘İÏ-
+~squid:S00115Z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”Ëğ›ûÿÿÿÿ8è¦‘İÏ-
+Fsquid:S1214†""Move constants to a class or enum.(œå½øÿÿÿÿ8è¦‘İÏ-
+esquid:S2386P"GMove "connect_server_register_attr" to a class and lower its visibility(»´õô8è¦‘İÏ-
+ysquid:S00115U"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èšÃ‰8è¦‘İÏ-
+squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïÁéßıÿÿÿÿ8è¦‘İÏ-
+squid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïí’¼üÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™˜Ÿü8è¦‘İÏ-
+zsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×ıÿ8è¦‘İÏ-
+squid:S00115®"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïí’¼üÿÿÿÿ8è¦‘İÏ-
+rsquid:S1192Ÿ"SDefine a constant instead of duplicating this literal "read-channel-limit" 3 times.(¥ôƒ¡8è¦‘İÏ-
+zsquid:S00115Ş"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ê¤’8è¦‘İÏ-
+Fsquid:S1214""Move constants to a class or enum.(ùŠ¿õøÿÿÿÿ8è¦‘İÏ-
+ssquid:S1192"ODefine a constant instead of duplicating this literal "connect-server" 3 times.(ïÁéßıÿÿÿÿ8è¦‘İÏ-
+~squid:S00115X"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ãşãßøÿÿÿÿ8è¦‘İÏ-
+squid:S00115é"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯‘•üÿÿÿÿ8è¦‘İÏ-
+usquid:S00114)"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ç¶·»şÿÿÿÿ8è¦‘İÏ-
+qsquid:S1192"RDefine a constant instead of duplicating this literal "read-global-limit" 3 times.(×ıÿ8è¦‘İÏ-
+vsquid:S00114Ô"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û˜‚¢øÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115²"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™˜Ÿü8è¦‘İÏ-
+zsquid:S00115û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍĞáÖ8è¦‘İÏ-
+zsquid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊÌ÷İ8è¦‘İÏ-
+squid:S00115¢"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(××ÿ»ıÿÿÿÿ8è¦‘İÏ-
+Asquid:S1214¬""Move constants to a class or enum.(­ËÇ´8è¦‘İÏ-
+squid:S00115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïí’¼üÿÿÿÿ8è¦‘İÏ-
+squid:S00115¦"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶÷•µûÿÿÿÿ8è¦‘İÏ-
+ssquid:S1192ƒ"ODefine a constant instead of duplicating this literal "gateway-client" 3 times.(¬¯œáÿÿÿÿÿ8è¦‘İÏ-
+zsquid:S00115Ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö ¸õ8è¦‘İÏ-
+zsquid:S00115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òó¿×8è¦‘İÏ-
+~squid:S00115["ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶„ƒ²şÿÿÿÿ8è¦‘İÏ-
+Fsquid:S1214õ""Move constants to a class or enum.(ÖÕß¡øÿÿÿÿ8è¦‘İÏ-
+squid:S00115ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(êİ¬¼øÿÿÿÿ8è¦‘İÏ-

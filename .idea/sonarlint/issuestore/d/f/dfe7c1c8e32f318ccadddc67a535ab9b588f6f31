@@ -1,0 +1,6 @@
+
+Dsquid:S42746"(Replace this assert with a proper check.(¸±×øÿÿÿÿ
+=squid:S1181"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
+[squid:S3358z"DExtract this nested ternary operation into an independent statement.(±âÍ
+]squid:S3457B"AFormat specifiers should be used instead of string concatenation.(·³Ø¶ıÿÿÿÿ
+]squid:S3457R"AFormat specifiers should be used instead of string concatenation.(İšÆíşÿÿÿÿ

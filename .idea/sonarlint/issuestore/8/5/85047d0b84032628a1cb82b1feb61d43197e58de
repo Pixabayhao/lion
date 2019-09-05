@@ -1,0 +1,37 @@
+
+U
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(ÇŞÅ…úÿÿÿÿ
+Zsquid:S2259ï"BA "NullPointerException" could be thrown; "pair" is nullable here.(Öƒ›
+Osquid:UnusedPrivateMethodÎ")Remove this unused private "test" method.(‚Ê¸¢
+jsquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦—‚®
+jsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÁñø
+csquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(–¬ı»ıÿÿÿÿ
+^squid:S00112r"FDefine and throw a dedicated exception instead of using a generic one.(óÎå¡
+Zsquid:S2259Ñ"BA "NullPointerException" could be thrown; "pair" is nullable here.(Öƒ›
+P
+squid:S106ò"9Replace this use of System.out or System.err by a logger.(Ë”ÓŠ
+Asquid:S1659ÿ"$Declare "offset" on a separate line.(®ıüÿÿÿÿ
+U
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(¸¨“¥úÿÿÿÿ
+U
+squid:S106õ"9Replace this use of System.out or System.err by a logger.(îıÌšøÿÿÿÿ
+osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°áÓ ıÿÿÿÿ
+U
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(¾àÈ¤øÿÿÿÿ
+jsquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤²Ø—
+P
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(ÕŞÑî
+csquid:S00112d"FDefine and throw a dedicated exception instead of using a generic one.(ìû—ıÿÿÿÿ
+P
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(àÅ Ğ
+jsquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š°´
+P
+squid:S106à"9Replace this use of System.out or System.err by a logger.(Ö›Ğš
+osquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï…ï¥şÿÿÿÿ
+P
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(õ¶«£
+P
+squid:S106€"9Replace this use of System.out or System.err by a logger.(ã…“
+jsquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜íò®
+U
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(’şºøÿÿÿÿ

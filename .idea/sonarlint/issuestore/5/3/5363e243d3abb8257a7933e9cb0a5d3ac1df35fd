@@ -1,0 +1,10 @@
+
+Œ"squid:ClassVariableVisibilityCheck"YMake clientVersion a static final constant or non-public and provide accessors if needed.(Èó¾øúÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake tags a static final constant or non-public and provide accessors if needed.(ÇëìË
+‚"squid:ClassVariableVisibilityCheck
+"UMake osVersion a static final constant or non-public and provide accessors if needed.(€òŒ[
+…"squid:ClassVariableVisibilityCheck	"RMake osName a static final constant or non-public and provide accessors if needed.(Ñ©Ìƒúÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake deviceId a static final constant or non-public and provide accessors if needed.(Æı¹ƒüÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"RMake userId a static final constant or non-public and provide accessors if needed.(ˆÀÕô
+ƒ"squid:ClassVariableVisibilityCheck"UMake heartbeat a static final constant or non-public and provide accessors if needed.(ßÉ¹
+…"squid:ClassVariableVisibilityCheck"RMake cipher a static final constant or non-public and provide accessors if needed.(é¦æ…ıÿÿÿÿ

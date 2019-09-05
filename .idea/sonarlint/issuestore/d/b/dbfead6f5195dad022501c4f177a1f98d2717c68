@@ -1,0 +1,21 @@
+
+w
+squid:S135š"YReduce the total number of break and continue statements in this loop to use at most one.(àËÏõ8‡…‘İÏ-
+Hsquid:S1181y"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8‡…‘İÏ-
+jsquid:S00112R"FDefine and throw a dedicated exception instead of using a generic one.(ˆª·Ãşÿÿÿÿ8‡…‘İÏ-
+]squid:S1118":Add a private constructor to hide the implicit public one.(ÓùÄÿÿÿÿÿ8‡…‘İÏ-
+tsquid:S3008"VRename this field "EXTRANET_IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Î÷8‡…‘İÏ-
+{
+squid:S135h"YReduce the total number of break and continue statements in this loop to use at most one.(Ò…ìæıÿÿÿÿ8‡…‘İÏ-
+csquid:S2095­"DUse try-with-resources or close this "Socket" in a "finally" clause.(ø×†é8‡…‘İÏ-
+Csquid:S1181+"%Catch Exception instead of Throwable.(½Ğğ•8‡…‘İÏ-
+vsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ûâîüÿÿÿÿ8‡…‘İÏ-
+esquid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(Ï—8‡…‘İÏ-
+‘ squid:ForLoopCounterChangedCheckŸ"XRefactor the code in order to not assign to this loop counter from within the loop body.(·ĞÍ‰şÿÿÿÿ8‡…‘İÏ-
+Ksquid:S1659Â"'Declare "queueSize" on a separate line.(¸Óùşÿÿÿÿ8‡…‘İÏ-
+qsquid:S3008"SRename this field "LOCAL_IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ºÄè8‡…‘İÏ-
+{
+squid:S135K"YReduce the total number of break and continue statements in this loop to use at most one.(Ò…ìæıÿÿÿÿ8‡…‘İÏ-
+Bsquid:S1659™"#Declare "value" on a separate line.(É¯Œ¨8‡…‘İÏ-
+osquid:S3776c"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(«¼Ê8‡…‘İÏ-
+Msquid:S1659Â")Declare "activeCount" on a separate line.(¸Óùşÿÿÿÿ8‡…‘İÏ-

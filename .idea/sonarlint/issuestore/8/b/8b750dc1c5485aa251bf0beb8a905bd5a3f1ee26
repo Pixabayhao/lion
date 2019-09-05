@@ -1,0 +1,5 @@
+
+]squid:S1126B"AReplace this if-then-else statement by a single return statement.(ÒéÀÆùÿÿÿÿ
+:squid:S1659Y"#Declare "value" on a separate line.(›üËİ
+Bsquid:S11681"+Return an empty collection instead of null.(¥¹ï
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(‘½ã›

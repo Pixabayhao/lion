@@ -1,0 +1,14 @@
+
+_squid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(Ñ•ô¾
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(±©îèşÿÿÿÿ
+W
+squid:S899”";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¢àïï
+xsquid:S1488v"\Immediately return this expression instead of assigning it to the temporary variable "bean".(ó×ú«ıÿÿÿÿ
+fsquid:S4042”"IUse "java.nio.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck„"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ñ•ô¾
+Asquid:S1181f"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¢àïï
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¢àïï
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘ŒïÕ
+Qsquid:S2168†"9Remove this dangerous instance of double-checked locking.(°âÌû

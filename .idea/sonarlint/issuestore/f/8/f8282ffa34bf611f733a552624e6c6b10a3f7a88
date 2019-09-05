@@ -1,0 +1,10 @@
+
+wsquid:S1149¿"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Õ—ƒ¯
+_squid:HiddenFieldCheck¯"<Rename "message" which hides the field declared at line 192.(¶µÚˆ
+wsquid:S1149¿"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Õ—ƒ¯
+;squid:S2129º"Remove this "Long" constructor(¢¶£Üùÿÿÿÿ
+;squid:S2129¸"Remove this "Long" constructor(á£ÙÆıÿÿÿÿ
+;squid:S2129¹"Remove this "Long" constructor(ªª´¾úÿÿÿÿ
+fsquid:HiddenFieldCheck°">Rename "startTime" which hides the field declared at line 196.(õıî»úÿÿÿÿ
+8squid:S2129¼" Remove this "Double" constructor(ì¯­î
+=squid:S2129»" Remove this "Double" constructor(…ª»úÿÿÿÿ

@@ -1,0 +1,12 @@
+
+>squid:S1659""Declare "CONN" on a separate line.(É°äæþÿÿÿÿ
+9squid:S1214""Move constants to a class or enum.(Îÿ•
+7squid:S1659"" Declare "HB" on a separate line.(ìàÏ¸
+?squid:S1659$"#Declare "CACHE" on a separate line.(è¡ìýÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ª¤³“
+9squid:S1659(""Declare "HTTP" on a separate line.(¨³Ô´
+8squid:S1659&"!Declare "RSD" on a separate line.(ŠËÔ”
+Usquid:S3516"9Refactor this method to not always return the same value.(ä¾¤Úúÿÿÿÿ
+Asquid:S1659"%Declare "MONITOR" on a separate line.(ïˆ°¢úÿÿÿÿ
+>squid:S1659 ""Declare "PUSH" on a separate line.(¿¯—œüÿÿÿÿ
+<squid:S1659*"%Declare "PROFILE" on a separate line.(æ€Ñë
